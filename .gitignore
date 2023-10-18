@@ -1,3 +1,4 @@
 /.idea/
 /resh-git-demo.iml
 .gradle/
+/target/
