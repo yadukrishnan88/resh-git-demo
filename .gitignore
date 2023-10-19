@@ -2,3 +2,7 @@
 /resh-git-demo.iml
 .gradle/
 /target/
+.classpath
+.project
+.settings/
+bin/
