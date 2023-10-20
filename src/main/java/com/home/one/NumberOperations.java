@@ -4,7 +4,7 @@ public class NumberOperations {
     private int a;
     private int b;
     private int c;
-    c=0;
+    c=10;
 
     public NumberOperations() {
 
