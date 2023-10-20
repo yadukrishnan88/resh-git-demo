@@ -3,6 +3,8 @@ package com.home.one;
 public class NumberOperations {
     private int a;
     private int b;
+    private int c;
+    c=0;
 
     public NumberOperations() {
 
