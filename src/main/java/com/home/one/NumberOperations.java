@@ -4,10 +4,9 @@ public class NumberOperations {
     private int a;
     private int b;
     private int c;
-    c=0;
 
     public NumberOperations() {
-
+        c=0;
     }
 
     public int addNumbers(int a, int b) {
